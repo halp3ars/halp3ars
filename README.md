@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 📫 How to reach me: [Telegram](t.me/halp3ars)
+- 📫 How to reach me: [Telegram](https://t.me/Halp3ars)
 <!--
 **halp3ars/halp3ars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
